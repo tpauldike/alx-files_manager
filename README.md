@@ -19,5 +19,5 @@ To install and run the app, ensure that you have `NodeJs` installed on the machi
 :$ npm run dev
 ```
 
-Then go ahead and make request to the endpoints by using a tool that let's your build HTTP packets and send such requests.
+Then go ahead and make request to the endpoints by using a tool that is designed to build HTTP packets and send such requests.
 
