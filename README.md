@@ -4,7 +4,7 @@ A project to help me gain practical knowledge on how to create API with Express,
 ## Installation
 To install and run the app, ensure that you have `NodeJs` installed on the machine or system, as well as the node package manager `npm`
 
-```
+```bash
 # Clone the repo
 :$ git clone https://github.com/tpauldike/alx-files_manager.git
 
